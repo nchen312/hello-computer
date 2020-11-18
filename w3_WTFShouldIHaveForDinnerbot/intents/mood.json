@@ -1,0 +1,59 @@
+{
+  "id": "8dedde47-621e-4826-8274-2713e124c047",
+  "parentId": "dc6df4dd-2aca-486a-96d0-3810788839f5",
+  "rootParentId": "dc6df4dd-2aca-486a-96d0-3810788839f5",
+  "name": "mood",
+  "auto": true,
+  "contexts": [
+    "dinnerideas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "dinnerideas.dinnerideas-custom",
+      "affectedContexts": [
+        {
+          "name": "mood-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bb614686-443f-4b89-8fd6-5e4d03d73526",
+          "name": "mood",
+          "required": false,
+          "dataType": "@mood",
+          "value": "$mood",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I feel you. Let\u0027s see...do you have any ingredients in your fridge?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "value": "vegetable",
+    "synonyms": [
+      "carrot",
+      "mushroom",
+      "onion",
+      "broccoli",
+      "vegetable",
+      "tomato",
+      "potato",
+      "cauliflower"
+    ]
+  },
+  {
+    "value": "meat",
+    "synonyms": [
+      "beef",
+      "pork",
+      "lamb",
+      "chicken",
+      "meat"
+    ]
+  },
+  {
+    "value": "dairy",
+    "synonyms": [
+      "dairy",
+      "milk",
+      "yogurt",
+      "cheese"
+    ]
+  },
+  {
+    "value": "cooked",
+    "synonyms": [
+      "cooked",
+      "leftover",
+      "Chinese",
+      "dumplings",
+      "ramen"
+    ]
+  },
+  {
+    "value": "dessert",
+    "synonyms": [
+      "dessert",
+      "pie",
+      "ice cream",
+      "chocolate"
+    ]
+  },
+  {
+    "value": "fruits",
+    "synonyms": [
+      "fruits",
+      "apple",
+      "orange",
+      "cantaloupe"
+    ]
+  }
+]

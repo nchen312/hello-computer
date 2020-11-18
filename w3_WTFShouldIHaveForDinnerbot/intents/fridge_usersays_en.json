@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1be5951d-b685-45b1-a7b0-dd21e0a7e215",
+    "data": [
+      {
+        "text": "there\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "pork",
+        "meta": "@ingredients",
+        "alias": "ingredients",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "yogurt",
+        "meta": "@ingredients",
+        "alias": "ingredients",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "351e2c76-6492-4fc7-9e0e-704851f44c23",
+    "data": [
+      {
+        "text": "beef",
+        "meta": "@ingredients",
+        "alias": "ingredients",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95ddfe73-9cac-41b2-87ca-5c74a91039b9",
+    "data": [
+      {
+        "text": "i\u0027ve got ",
+        "userDefined": false
+      },
+      {
+        "text": "mushroom",
+        "meta": "@ingredients",
+        "alias": "ingredients",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "onion",
+        "meta": "@ingredients",
+        "alias": "ingredients",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

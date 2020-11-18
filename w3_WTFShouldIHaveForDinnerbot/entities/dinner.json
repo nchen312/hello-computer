@@ -1,0 +1,9 @@
+{
+  "id": "15378ed0-ca12-438f-acb3-8be30946e7d1",
+  "name": "dinner",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

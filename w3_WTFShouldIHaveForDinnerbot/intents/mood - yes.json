@@ -1,0 +1,44 @@
+{
+  "id": "54bdc83e-6921-4bd5-9950-7b8b4ef6dffd",
+  "parentId": "8dedde47-621e-4826-8274-2713e124c047",
+  "rootParentId": "dc6df4dd-2aca-486a-96d0-3810788839f5",
+  "name": "mood - yes",
+  "auto": true,
+  "contexts": [
+    "mood-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "dinnerideas.dinnerideas-custom.mood-yes",
+      "affectedContexts": [
+        {
+          "name": "mood-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cool. Tell me what you have"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

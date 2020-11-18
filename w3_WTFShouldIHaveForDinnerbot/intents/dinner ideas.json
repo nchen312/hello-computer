@@ -1,0 +1,55 @@
+{
+  "id": "dc6df4dd-2aca-486a-96d0-3810788839f5",
+  "name": "dinner ideas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "dinnerideas-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "59e7fa2a-28b4-45a2-a66d-3d88f95130a2",
+          "name": "dinner",
+          "required": false,
+          "dataType": "@dinner",
+          "value": "$dinner",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hmm...Good question. How are you feeling right now? Give me some adjectives"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

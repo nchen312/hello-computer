@@ -1,0 +1,74 @@
+[
+  {
+    "id": "79b4db46-520d-40fe-b948-fcf8850243c2",
+    "data": [
+      {
+        "text": "i\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "bored",
+        "meta": "@mood",
+        "alias": "mood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db7509ed-3b50-436c-9919-6251ce26798d",
+    "data": [
+      {
+        "text": "I\u0027m feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "uninspired",
+        "meta": "@mood",
+        "alias": "mood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "319ee158-c689-4c79-9e4a-ee8298940679",
+    "data": [
+      {
+        "text": "ok",
+        "meta": "@mood",
+        "alias": "mood",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e69b040-1e3d-413b-bd88-4f4842f1bcd9",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "alright",
+        "meta": "@mood",
+        "alias": "mood",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

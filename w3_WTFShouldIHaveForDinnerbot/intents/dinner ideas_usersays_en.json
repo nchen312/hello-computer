@@ -1,0 +1,132 @@
+[
+  {
+    "id": "bfa0b3cb-3768-4ec6-901d-0c27fc8adb3e",
+    "data": [
+      {
+        "text": "what do you feel like for ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "meta": "@dinner",
+        "alias": "dinner",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5126880-75d2-41dc-89d5-000ca0a7d99e",
+    "data": [
+      {
+        "text": "what\u0027s for ",
+        "userDefined": false
+      },
+      {
+        "text": "supper",
+        "meta": "@dinner",
+        "alias": "dinner",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "176eae06-808b-4114-9b34-6022b1eb5270",
+    "data": [
+      {
+        "text": "what should i have for the ",
+        "userDefined": false
+      },
+      {
+        "text": "third meal",
+        "meta": "@dinner",
+        "alias": "dinner",
+        "userDefined": true
+      },
+      {
+        "text": " of the day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "511dffa8-ed97-4a83-b73b-ac8c46f56c93",
+    "data": [
+      {
+        "text": "Dinner",
+        "meta": "@dinner",
+        "alias": "dinner",
+        "userDefined": true
+      },
+      {
+        "text": " ideas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de59fd57-7731-47c9-b4a3-2e635deca392",
+    "data": [
+      {
+        "text": "Tell me what to make for ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "meta": "@dinner",
+        "alias": "dinner",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87601852-7f34-4b6e-919f-0458fdf983ac",
+    "data": [
+      {
+        "text": "What should I eat for ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "meta": "@dinner",
+        "alias": "dinner",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

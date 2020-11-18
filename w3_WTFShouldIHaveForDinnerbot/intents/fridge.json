@@ -1,0 +1,54 @@
+{
+  "id": "cfc5a694-81f6-403d-804f-6c1100cc4dc9",
+  "parentId": "54bdc83e-6921-4bd5-9950-7b8b4ef6dffd",
+  "rootParentId": "dc6df4dd-2aca-486a-96d0-3810788839f5",
+  "name": "fridge",
+  "auto": true,
+  "contexts": [
+    "mood-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "dinnerideas.dinnerideas-custom.mood-yes.mood-yes-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "122841ae-40f5-410a-b83e-2900223c25d1",
+          "name": "ingredients",
+          "required": false,
+          "dataType": "@ingredients",
+          "value": "$ingredients",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Awesome! That\u0027s $ingredients. Why don\u0027t you make a $ingredients.original soup? It will be interesting. You\u0027re welcome."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

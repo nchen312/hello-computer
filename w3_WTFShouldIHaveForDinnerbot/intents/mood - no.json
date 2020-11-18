@@ -1,0 +1,39 @@
+{
+  "id": "78493eb8-d158-4e7f-adbf-2955b490898d",
+  "parentId": "8dedde47-621e-4826-8274-2713e124c047",
+  "rootParentId": "dc6df4dd-2aca-486a-96d0-3810788839f5",
+  "name": "mood - no",
+  "auto": true,
+  "contexts": [
+    "mood-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "dinnerideas.dinnerideas-custom.mood-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I recommend cooking at home. It saves money. Be a responsible adult."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

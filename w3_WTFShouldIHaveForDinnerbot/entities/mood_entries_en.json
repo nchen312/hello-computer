@@ -1,0 +1,30 @@
+[
+  {
+    "value": "positive",
+    "synonyms": [
+      "positive",
+      "happy",
+      "creative",
+      "bright",
+      "energetic",
+      "alright",
+      "fine",
+      "ok",
+      "experimental"
+    ]
+  },
+  {
+    "value": "negative",
+    "synonyms": [
+      "negative",
+      "moody",
+      "nervous",
+      "tired",
+      "bored",
+      "uninspired",
+      "anxious",
+      "stressed-out",
+      "hungry"
+    ]
+  }
+]
