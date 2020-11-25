@@ -1,0 +1,9 @@
+{
+  "id": "aca53e48-5378-40a1-bb62-9df514e821ef",
+  "name": "job",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
