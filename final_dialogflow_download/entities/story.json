@@ -1,0 +1,9 @@
+{
+  "id": "2c5c3ac2-6cb7-408b-9f79-0f87f84556bc",
+  "name": "story",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

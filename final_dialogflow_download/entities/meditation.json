@@ -1,0 +1,9 @@
+{
+  "id": "b34bb1f7-a6c6-42ca-ae38-4d306825a85c",
+  "name": "meditation",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
